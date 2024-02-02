@@ -1,5 +1,5 @@
 # Lista de Tarefas
-Projeto de lista de tarefas desenvolvido com Angular.
+Projeto desenvolvido com o framework Angular.
 
 ## Funcionalidades
 Os usuários podem:
